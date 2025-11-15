@@ -42,3 +42,9 @@ BROWSER_USE_API_KEY=your-key
 ```bash
 uv run test-agent.py
 ```
+
+## cinema agent
+
+```bash
+uv run cinema-agent.py
+```
